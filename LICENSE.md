@@ -1,1 +1,1 @@
-Initial licence text.
+Initial licence text. Changes will be stashed.
